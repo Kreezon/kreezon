@@ -6,7 +6,7 @@ Hello World! This is my profile 🫡.
 <h3 align="center">A passionate machine learning enthusiast from India.</h3>
 
 <p align="center">
-<img src="https://github.com/Kreezon/kreezon/blob/main/200.gif" width="300">
+<img src="https://github.com/Kreezon/kreezon/blob/main/200.gif" width="500">
 </p>
 
 
