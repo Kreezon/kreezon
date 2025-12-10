@@ -4,7 +4,7 @@ Hello World! This is my profile 🫡.
 
 <h1 align="center">Hi 👋, I'm Shreyas Srivastava</h1>
 <h3 align="center">A passionate machine learning enthusiast from India.</h3>
-<img src="C:\Users\linex\Downloads\200.gif" width="300">
+<img src="https://github.com/Kreezon/kreezon/blob/main/200.gif" width="300">
 
 
 
