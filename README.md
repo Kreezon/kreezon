@@ -31,122 +31,55 @@ Hello World! This is my profile 🫡.
      PREMIUM TECH STACK BLOCK
      Paste this into README.md
      ========================= -->
-
 <h2 align="center">🛠️ Tech Stack</h2>
-<p align="center"><em>Tools I use to build ML models, APIs, and deploy production apps</em></p>
 
-<!-- Optional badges -->
+<!-- Programming Languages -->
+<h4 align="center">💻 Programming Languages</h4>
 <p align="center">
-  <img alt="Top languages" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="ML" src="https://img.shields.io/badge/-Machine%20Learning-F7DF1E?style=for-the-badge&logo=tensorflow&logoColor=black"/>
-  <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
-<!-- Grid: icons + labels -->
-<table align="center">
-  <tbody>
-    <tr align="center">
-      <td width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="python"/><br/>
-        <sub>Python</sub>
-      </td>
-      <td width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" alt="java"/><br/>
-        <sub>Java</sub>
-      </td>
-      <td width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" alt="c"/><br/>
-        <sub>C</sub>
-      </td>
-      <td width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" alt="cpp"/><br/>
-        <sub>C++</sub>
-      </td>
-      <td width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" alt="html"/><br/>
-        <sub>HTML5</sub>
-      </td>
-    </tr>
+<!-- Machine Learning -->
+<h4 align="center">🤖 Machine Learning & Data Science</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+</p>
 
-    <tr height="16"></tr> <!-- spacing row -->
+<!-- Backend / Frameworks -->
+<h4 align="center">🧩 Frameworks & Backend</h4>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
 
-    <tr align="center">
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="pandas"/><br/>
-        <sub>Pandas</sub>
-      </td>
-      <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" alt="sklearn"/><br/>
-        <sub>scikit-learn</sub>
-      </td>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" alt="pytorch"/><br/>
-        <sub>PyTorch</sub>
-      </td>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" alt="tensorflow"/><br/>
-        <sub>TensorFlow</sub>
-      </td>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" alt="opencv"/><br/>
-        <sub>OpenCV</sub>
-      </td>
-    </tr>
+<!-- DevOps -->
+<h4 align="center">⚙️ DevOps & Cloud</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
 
-    <tr height="16"></tr>
+<!-- Big Data -->
+<h4 align="center">📊 Big Data Tools</h4>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+</p>
 
-    <tr align="center">
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" alt="docker"/><br/>
-        <sub>Docker</sub>
-      </td>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" alt="k8s"/><br/>
-        <sub>Kubernetes</sub>
-      </td>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" alt="git"/><br/>
-        <sub>Git</sub>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" alt="mysql"/><br/>
-        <sub>MySQL</sub>
-      </td>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="48" alt="kafka"/><br/>
-        <sub>Kafka</sub>
-      </td>
-    </tr>
-
-    <tr height="16"></tr>
-
-    <tr align="center">
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="48" alt="hadoop"/><br/>
-        <sub>Hadoop</sub>
-      </td>
-      <td>
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" alt="django"/><br/>
-        <sub>Django</sub>
-      </td>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" alt="flask"/><br/>
-        <sub>Flask</sub>
-      </td>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" alt="heroku"/><br/>
-        <sub>Heroku</sub>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" alt="linux"/><br/>
-        <sub>Linux</sub>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- Optional: small caption / call to action -->
-<p align="center"><em>Want me to add hover labels, colored backgrounds or grouped cards? I can customize it—tell me the style (dark/light/minimal) and I’ll update it.</em></p>
 
 
 
