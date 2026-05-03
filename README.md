@@ -18,7 +18,9 @@
 
 </div>
 
-![Demo](gif.gif)   
+<p align="center">
+  <img src="gif.gif" alt="Demo animation">
+</p>   
 
 ---
 
