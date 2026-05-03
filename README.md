@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Hey%20there!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-# Hey there 👋 I'm Shreyas Srivastava
+# I'm Shreyas Srivastava
 
-### 🤖 ML Engineer · GenAI Builder · Final Year CS @ KIIT
+### 🤖 Machine Learning Engineer · Final Year CS @ KIIT
 
 <p>
   <a href="mailto:linexshreyas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,6 +14,7 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kreezon&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Kreezon?style=flat-square&color=blueviolet)
 
 </div>
 
@@ -23,12 +24,36 @@
 shreyas = {
     "location"   : "Varanasi, India 🇮🇳",
     "education"  : "B.Tech CSE @ KIIT (2022–2026) · CGPA: 8.34",
-    "focus"      : ["Machine Learning", "Generative AI", "LLM Apps", "Multi-Agent Systems"],
-    "currently"  : "Building cool stuff with LangChain, RAG & PyTorch",
+    "focus"      : ["Machine Learning", "Deep Learning", "NLP", "LLM Apps"],
+    "currently"  : "Exploring LangChain & RAG while sharpening my ML fundamentals",
     "fun_fact"   : "🎵 I code better with lo-fi beats or movie soundtracks",
     "looking_for": "ML/AI roles · Open from 2026"
 }
 ```
+
+---
+
+<div align="center">
+
+### 💬 Words I live by
+
+> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."*
+>
+> — **Edsger W. Dijkstra**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Words I code by
+
+> *"A year from now you may wish you had started today."*
+>
+> — **Karen Lamb**
+
+</div>
 
 ---
 
@@ -80,14 +105,14 @@ shreyas = {
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| Project | What it does | Stack | |
+| Project | What it does | Stack | Link |
 |---|---|---|---|
-| **Teplur** | Detects AI-generated text · 95% accuracy · 0.95 F1 | PyTorch · Transformers · Streamlit | [🔗](#) |
-| **SkillScan** | ATS resume analyzer with NLP skill matching | Flask · GROQ · Scikit-learn | [🌐 Live](#) |
-| **ResearchMind** | Multi-agent AI that automates research workflows | LangChain · LLMs · BeautifulSoup | [🌐 Live](#) |
-| **Cine AI** | Movie recommender using TF-IDF + TMDB API | FastAPI · Scikit-learn · Streamlit | [🌐 Live](#) |
+| 🔍 **Teplur** | Detects AI-generated text · 95% accuracy · 0.95 F1 | PyTorch · Transformers · Streamlit | [🔗 Repo](#) |
+| 📄 **SkillScan** | ATS resume analyzer with NLP skill matching | Flask · GROQ · Scikit-learn | [🌐 Live](#) |
+| 🤖 **ResearchMind** | Multi-agent AI that automates research workflows | LangChain · LLMs · BeautifulSoup | [🌐 Live](#) |
+| 🎬 **Cine AI** | Movie recommender using TF-IDF + TMDB API | FastAPI · Scikit-learn · Streamlit | [🌐 Live](#) |
 
 ---
 
@@ -105,7 +130,71 @@ shreyas = {
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kreezon&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kreezon&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Watch my contributions get eaten!
+
+![Snake animation](https://raw.githubusercontent.com/Kreezon/Kreezon/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kreezon&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kreezon&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Watch my contributions get eaten
+
+![Snake animation](https://raw.githubusercontent.com/Kreezon/Kreezon/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+*🎵 Currently vibing to lo-fi beats while training models that dream of electric sheep.*
+
+**Open to ML/AI roles · Available from 2026**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
 
