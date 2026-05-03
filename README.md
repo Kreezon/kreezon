@@ -1,85 +1,112 @@
-# Shreyas-Srivastava
-Hello World! This is my profile 🫡. 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Shreyas Srivastava</h1>
-<h3 align="center">A passionate machine learning enthusiast from India.</h3>
+# Hey there 👋 I'm Shreyas Srivastava
 
-<p align="center">
-<img src="https://github.com/Kreezon/kreezon/blob/main/200.gif" width="500">
+### 🤖 ML Engineer · GenAI Builder · Final Year CS @ KIIT
+
+<p>
+  <a href="mailto:linexshreyas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shreyas-srivastava-728589264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Kreezon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://huggingface.co/kreezon"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logoColor=black"/></a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Kreezon&color=blueviolet&style=flat-square)
 
+</div>
 
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kreezon](https://github.com/Kreezon)
+```python
+shreyas = {
+    "location"   : "Varanasi, India 🇮🇳",
+    "education"  : "B.Tech CSE @ KIIT (2022–2026) · CGPA: 8.34",
+    "focus"      : ["Machine Learning", "Generative AI", "LLM Apps", "Multi-Agent Systems"],
+    "currently"  : "Building cool stuff with LangChain, RAG & PyTorch",
+    "fun_fact"   : "🎵 I code better with lo-fi beats or movie soundtracks",
+    "looking_for": "ML/AI roles · Open from 2026"
+}
+```
 
-- 📫 How to reach me **linexshreyas@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IUz_euevWpo9vmFXfBYpaHoXt-e0aUyJ/view?usp=drive_link](https://drive.google.com/file/d/1IUz_euevWpo9vmFXfBYpaHoXt-e0aUyJ/view?usp=drive_link)
+## 🛠️ Tech Stack
 
-- ⚡ Fun fact **🎵 I code better with lo-fi beats or movie soundtracks in the background.**
+**💻 Languages**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shreyas-srivastava-728589264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-srivastava-728589264" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://huggingface.co/kreezon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://huggingface.co/kreezon" height="30" width="40" /></a>
-<a href="https://instagram.com/shre_.yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shre_.yas" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!-- =========================
-     PREMIUM TECH STACK BLOCK
-     Paste this into README.md
-     ========================= -->
-<h2 align="center">🛠️ Tech Stack</h2>
+**🤖 ML & AI**
 
-<!-- Programming Languages -->
-<h4 align="center">💻 Programming Languages</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-<!-- Machine Learning -->
-<h4 align="center">🤖 Machine Learning & Data Science</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-</p>
+**✨ Generative AI & LLMs**
 
-<!-- Backend / Frameworks -->
-<h4 align="center">🧩 Frameworks & Backend</h4>
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A0572?style=flat-square)
 
-<!-- DevOps -->
-<h4 align="center">⚙️ DevOps & Cloud</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
+**🧩 Frameworks & Backend**
 
-<!-- Big Data -->
-<h4 align="center">📊 Big Data Tools</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
-</p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
+**⚙️ DevOps & Platforms**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
+---
 
+## 🚀 Projects
+
+| Project | What it does | Stack | |
+|---|---|---|---|
+| **Teplur** | Detects AI-generated text · 95% accuracy · 0.95 F1 | PyTorch · Transformers · Streamlit | [🔗](#) |
+| **SkillScan** | ATS resume analyzer with NLP skill matching | Flask · GROQ · Scikit-learn | [🌐 Live](#) |
+| **ResearchMind** | Multi-agent AI that automates research workflows | LangChain · LLMs · BeautifulSoup | [🌐 Live](#) |
+| **Cine AI** | Movie recommender using TF-IDF + TMDB API | FastAPI · Scikit-learn · Streamlit | [🌐 Live](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kreezon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kreezon&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kreezon&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+
+</div>
