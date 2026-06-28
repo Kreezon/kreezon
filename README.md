@@ -134,35 +134,7 @@ shreyas = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kreezon&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kreezon&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Watch my contributions get eaten!
-
-![Snake animation](https://raw.githubusercontent.com/Kreezon/Kreezon/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
