@@ -69,6 +69,26 @@ shreyas = {
 
 ---
 
+---
+
+<div align="center">
+
+# 🕉️ Principles I Live By
+
+> **"You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions."**
+>
+> **— Bhagavad Gita 2.47**
+
+<br>
+
+> **"Let a man lift himself by himself; let him not degrade himself. For the self alone is the friend of the self, and the self alone is the enemy of the self."**
+>
+> **— Bhagavad Gita 6.5**
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
