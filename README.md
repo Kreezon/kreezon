@@ -142,7 +142,7 @@ shreyas = {
 ## 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="" width="500"/>
+  <img src=" https://github.com/Kreezon/kreezon/blob/main/Screenshot%202026-06-28%20115818.png" width="500"/>
 </p>
 
 
