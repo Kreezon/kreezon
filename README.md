@@ -208,15 +208,7 @@ shreyas = {
 
 ---
 
-<div align="center">
 
-### 🐍 My contributions, consumed
-
-![Snake animation](https://raw.githubusercontent.com/Kreezon/Kreezon/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
