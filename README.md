@@ -136,13 +136,16 @@ shreyas = {
 
 
 
-## 🏆 GitHub Trophies
 
-<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kreezon&theme=tokyonight&no-frame=true&row=1&column=6)
 
-</div>
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="" width="500"/>
+</p>
+
+
 
 ---
 
