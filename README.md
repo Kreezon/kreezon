@@ -3,6 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=210&section=header&text=SHREYAS%20SRIVASTAVA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=ML%20%26%20GenAI%20Engineer%20%7C%20CSE%20Graduate%20%7C%20AI%20Builder&descAlignY=57&descSize=17&descColor=a78bfa" width="100%" alt="Shreyas Srivastava header"/>
 
 <br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kreezon/kreezon/main/Shreyas%20.jpeg" width="700" alt="Shreyas"/>
+</p>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+ML+%2B+GenAI+systems;LLM+Apps+%C2%B7+RAG+%C2%B7+AI+Agents;Model+%E2%86%92+API+%E2%86%92+Deployment;Turning+ideas+into+working+AI+products+%F0%9F%9A%80" alt="Typing animation"/>
 
