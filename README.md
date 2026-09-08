@@ -4,7 +4,7 @@
 
 <!-- 🎬 GIF: put your GIF at assets/header.gif -->
 <p align="center">
-  <img src="https://github.com/Kreezon/kreezon/blob/main/200.gif" alt="Animated header GIF" width="85%">
+  <img src="https://github.com/Kreezon/kreezon/blob/main/200.gif" alt="Animated header GIF" width="65%">
 </p>
 
 ---
