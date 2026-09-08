@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- HERO -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:1a1a4e,70:302b63,100:24243e&height=220&section=header&text=Shreyas%20Srivastava&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Generative%20AI%20%7C%20LLM%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%" alt="Shreyas Srivastava"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:1a1a4e,70:302b63,100:24243e&height=210&section=header&text=Shreyas%20Srivastava&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Machine%20Learning%20%7C%20Generative%20AI%20%7C%20LLM%20Engineer&descAlignY=57&descSize=18&descColor=a78bfa" width="100%" alt="Shreyas Srivastava"/>
 
 <br/>
 
@@ -10,18 +8,10 @@
 
 <br/><br/>
 
-<a href="mailto:linexshreyas@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/shreyas-srivastava-728589264">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Kreezon">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://huggingface.co/kreezon">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</a>
+<a href="mailto:linexshreyas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/shreyas-srivastava-728589264"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Kreezon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://huggingface.co/kreezon"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 
 <br/><br/>
 
@@ -39,95 +29,84 @@
 <img src="https://raw.githubusercontent.com/Kreezon/kreezon/main/Shreyas%20.jpeg" width="390" alt="Shreyas"/>
 
 </td>
-
 <td width="58%" valign="middle">
 
 Hey, I'm Shreyas 👋
 
-Computer Science graduate focused on Machine Learning and Generative AI, with hands-on experience building NLP pipelines, LLM-powered applications, RAG systems, and multi-agent workflows.
+Computer Science graduate focused on Machine Learning, Generative AI, NLP, LLM applications, RAG, and AI agents.
 
-I like building beyond the notebook — taking an idea from:
+I enjoy taking ideas beyond notebooks and turning them into working, deployable systems — from model development and evaluation to APIs, interfaces, and deployment.
 
-Model → API → Application → Deployment
+Currently: Support Engineer (Data & Technical) at CNV Labs India Pvt. Ltd. (iCloudEMS).
 
-⚡ Quick Profile
+I build: ML models · LLM applications · RAG pipelines · multi-agent workflows · APIs · data-driven systems
 
-🎓 B.Tech CSE — KIIT · 8.44 CGPA
 
-💼 Support Engineer (Data & Technical) — CNV Labs India Pvt. Ltd. (iCloudEMS)
 
-🧠 Focus: ML · GenAI · NLP · LLMs · RAG · AI Agents
 
-🐍 Primary language: Python
 
-⚙️ Engineering: FastAPI · REST APIs · Docker · Nginx
+🎓 Education
 
-🖥️ Frontend: React · TypeScript
+B.Tech CSE · KIIT · 8.44 CGPA
 
-📍 Varanasi, India 🇮🇳
+💼 Role
 
-🎯 Open to: ML / AI / GenAI opportunities
+Support Engineer (Data & Technical)
+
+🧠 Focus
+
+ML · GenAI · NLP · LLMs · RAG · AI Agents
+
+⚙️ Backend
+
+FastAPI · Flask · REST APIs
+
+🖥️ Frontend
+
+React · TypeScript
+
+🚀 Deployment
+
+Docker · Nginx · CI/CD
+
+📍 Location
+
+Varanasi, India 🇮🇳
+
+🎯 Looking for
+
+ML / AI / GenAI opportunities
 
 </td>
 </tr>
 </table>
 
-I build practical AI systems — not just models.
-
 🧠 Tech Stack
 
 <div align="center">
 
-Languages & Core
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,linux" alt="Languages and core technologies"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,linux,pytorch,tensorflow,fastapi,flask,streamlit,react,ts,docker,nginx" alt="Tech stack"/>
 
 <br/><br/>
-
-Machine Learning & Deep Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Machine learning technologies"/>
-
-<br/>
 
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<br/><br/>
-
-Generative AI & LLM Engineering
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChromaDB-6B4FBB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
 
 <br/>
 
-LLM Applications · RAG · AI Agents · Multi-Agent Systems · NLP · Prompt Engineering · Vector Embeddings
-
-<br/><br/>
-
-Backend, Frontend & Deployment
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit,react,ts,docker,nginx" alt="Backend frontend and deployment stack"/>
-
-<br/><br/>
-
-REST APIs · FastAPI · Flask · Streamlit · React · TypeScript · Vite · Docker · Nginx · CI/CD · Model Deployment
+Python · C++ · SQL · PyTorch · TensorFlow · Scikit-learn · Transformers · LangChain · RAG · NLP · FastAPI · React · Docker
 
 </div>
 
 🚀 Featured Projects
 
-🔍 Teplur
+🔍 Teplur — AI-Generated Text Detection
 
-AI-Generated Text Detection
-
-Detecting AI-generated text using GPT-2 perplexity features and machine learning.
+Detecting AI-generated text using transformer-derived perplexity features.
 
 Built and labeled a 2,000-sample dataset
 
@@ -137,53 +116,47 @@ Implemented Logistic Regression with an 80/20 train-test split
 
 Achieved 95% accuracy and 0.95 F1-score
 
-Deployed the application with Streamlit
+Deployed the application using Streamlit
 
 Python PyTorch Transformers Scikit-learn Streamlit
 
-🛰️ Orbit Forge
+🛰️ Orbit Forge — Orbital Mechanics & Physics Simulator
 
-High-Performance Orbital Mechanics & Physics Simulator
+High-performance physics simulation combined with machine-learning-based orbital outcome prediction.
 
-Combining physics simulation, machine learning, modern APIs, and interactive visualization.
+Built a C++/Python physics engine using Velocity-Verlet integration
 
-Engineered a C++/Python physics engine using Velocity-Verlet integration
+Connected C++ and Python with Pybind11
 
-Connected C++ and Python using Pybind11
+Developed an ML classifier for stability, collisions, ejections, and chaotic outcomes
 
-Built an ML pipeline to classify stability, collisions, ejections, and chaotic outcomes
+Built an asynchronous FastAPI backend
 
-Developed an asynchronous FastAPI backend
+Added React + Three.js interactive visualization
 
-Built interactive visualization using React + Three.js
-
-Added automated testing, performance benchmarking, and Docker/Nginx deployment
+Added automated testing, benchmarking, and Docker/Nginx deployment
 
 C++ Python Pybind11 FastAPI Scikit-learn React TypeScript Docker Nginx
 
-🤖 NexMind
+🤖 NexMind — Multi-Agent AI Research System
 
-Multi-Agent AI Research System
+An LLM-powered research system that automates search, extraction, report generation, and evaluation.
 
-An LLM-powered research workflow that automates search, extraction, analysis, and report generation.
+Orchestrated multi-agent workflows with LangChain
 
-Automated web search, content extraction, report generation, and evaluation
+Automated web search and content extraction
 
-Orchestrated LLM-powered agents with LangChain
+Applied NLP and prompt engineering
 
-Applied NLP and prompt engineering for research workflows
-
-Generated structured outputs
+Generated structured research outputs
 
 Built an interactive Streamlit interface
 
-Integrated web scraping using BeautifulSoup
+Integrated BeautifulSoup for web scraping
 
 Python LangChain LLMs NLP Streamlit BeautifulSoup
 
-🎙️ Vissora AI
-
-Video & Meeting Intelligence Assistant
+🎙️ Vissora AI — Video & Meeting Intelligence Assistant
 
 Turning meeting recordings into searchable, conversational knowledge.
 
@@ -191,11 +164,11 @@ Automated audio transcription and meeting insight extraction
 
 Identified action items and key decisions
 
-Integrated OpenAI Whisper and Sarvam AI for English/Hinglish transcription
+Integrated OpenAI Whisper + Sarvam AI for English/Hinglish transcription
 
-Implemented a RAG chatbot over meeting content
+Built a RAG chatbot over meeting content
 
-Used ChromaDB and vector embeddings for context-aware retrieval
+Used ChromaDB and vector embeddings for contextual retrieval
 
 Python Streamlit LangChain ChromaDB Whisper Mistral AI FFmpeg
 
@@ -215,7 +188,7 @@ Coordinate with Development and QA teams for issue resolution
 
 Support backend and frontend workflows and test bug fixes
 
-Maintain issue documentation and technical records
+Maintain technical issue documentation
 
 🎓 Education
 
@@ -226,58 +199,28 @@ CGPA: 8.44
 
 St. Mary's Convent School
 
-2018 – 2020
-Class XII: 82% · Class X: 88%
+2018 – 2020 · Class XII: 82% · Class X: 88%
 
 🏆 Certifications
 
-Certification
+IBM — Supervised Machine Learning: Regression & Classification
+IBM — Generative AI: Introduction and Applications
+Google for Developers — Neural Networks with TensorFlow
+Coursera — Machine Learning for All · University of London
+Tata iQ / Forage — GenAI Data Analytics Simulation
+J.P. Morgan Chase & Co. / Forage — Software Engineering Job Simulation
 
-Provider
-
-Supervised Machine Learning: Regression & Classification
-
-IBM
-
-Generative AI: Introduction and Applications
-
-IBM
-
-Neural Networks with TensorFlow
-
-Google for Developers
-
-Machine Learning for All
-
-University of London · Coursera
-
-GenAI Data Analytics Simulation
-
-Tata iQ · Forage
-
-Software Engineering Job Simulation
-
-J.P. Morgan Chase & Co. · Forage
-
-🐍 Contribution Snake
+📊 GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kreezon/Kreezon/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kreezon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
 
-</div>
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kreezon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kreezon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kreezon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Kreezon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Kreezon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
@@ -285,47 +228,7 @@ J.P. Morgan Chase & Co. · Forage
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kreezon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub trophies"/>
-
-</div>
-
-📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kreezon&theme=tokyo-night&hide_border=true&area=true&custom_title=Shreyas%27s%20Contribution%20Graph" width="100%" alt="Contribution graph"/>
-
-</div>
-
-🧭 My AI Engineering Path
-
-<div align="center">
-
-             MACHINE LEARNING
-                    │
-        ┌───────────┴───────────┐
-        ▼                       ▼
-       NLP              Deep Learning
-        │                       │
-        └───────────┬───────────┘
-                    ▼
-              GENERATIVE AI
-                    │
-       ┌────────────┼────────────┐
-       ▼            ▼            ▼
-      LLMs         RAG       AI Agents
-       │            │            │
-       └────────────┼────────────┘
-                    ▼
-             PRODUCTION AI
-                    │
-       ┌────────────┼────────────┐
-       ▼            ▼            ▼
-     FastAPI      Docker      Deployment
-       │            │            │
-       └────────────┼────────────┘
-                    ▼
-              USEFUL PRODUCTS 🚀
+<img src="https://github-profile-trophy.vercel.app/?username=Kreezon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -333,21 +236,10 @@ J.P. Morgan Chase & Co. · Forage
 
 <div align="center">
 
-Building with AI? Let's talk. 🤝
+ML • AI • GenAI • LLM Engineering • RAG • AI Agents
 
-<a href="mailto:linexshreyas@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/shreyas-srivastava-728589264">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Kreezon">
-<img src="https://img.shields.io/badge/Explore_My_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-Machine Learning · Generative AI · NLP · LLM Engineering · RAG · AI Agents
+<a href="https://linkedin.com/in/shreyas-srivastava-728589264"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:linexshreyas@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -358,7 +250,5 @@ Machine Learning · Generative AI · NLP · LLM Engineering · RAG · AI Agents
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,35:302b63,70:1a1a4e,100:0f0c29&height=140&section=footer" width="100%" alt="Footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,35:302b63,70:1a1a4e,100:0f0c29&height=130&section=footer" width="100%" alt="Footer"/>
 </div>
