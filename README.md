@@ -1,21 +1,262 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>🤖 Machine Learning, Generative AI & LLM-powered applications<br><br>👯 I’m looking to collaborate on<br>🧠 AI/ML, RAG, Multi-Agent Systems & NLP projects<br><br>🤝 I’m looking for help with<br>⚡ Building scalable AI systems and improving LLM/agent workflows<br><br>🌱 I’m currently learning<br>🚀 Advanced RAG, AI Agents, LLM evaluation & MLOps<br><br>💬 Ask me about<br>🐍 Python, Machine Learning, RAG, LangChain, FastAPI & LLMs and anything you wanna ask me about .<br><br>⚡ Fun fact<br>🛠️ I enjoy turning AI/ML ideas into end-to-end working applications
+
+<p align="center">
+  <img src="https://github.com/Kreezon/kreezon/blob/main/200.gif" alt="Shreyas animated banner" width="100%">
+</p>
+
+<!-- Animated name header -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shreyas+Srivastava+%F0%9F%91%8B;Machine+Learning+%7C+Generative+AI;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Building+AI+from+idea+to+deployment+%F0%9F%9A%80" alt="Typing header">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kreezon">
+    <img src="https://komarev.com/ghpvc/?username=Kreezon&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views">
+  </a>
+</p>
+
+👨‍💻 About Me
+
+<table>
+<tr>
+<td width="34%" align="center">
+
+<!-- 🖼️ YOUR PHOTO — add it as: assets/shreyas.jpg -->
+
+<img src="./assets/shreyas.jpg" alt="Shreyas Srivastava" width="260">
+
+<br><br>
+
+Shreyas Srivastava
+Computer Science & Engineering
+KIIT • CGPA 8.44
+
+</td>
+
+<td width="66%" valign="top">
+
+Building practical AI systems, one project at a time.
+
+I'm a Computer Science graduate specializing in Machine Learning and Generative AI, with hands-on experience building NLP pipelines, LLM-powered applications, RAG systems, and multi-agent workflows.
+
+I enjoy taking an idea all the way from model development → evaluation → API → interface → deployment. My current toolkit includes Python, PyTorch, Scikit-learn, LangChain, FastAPI, Streamlit, Docker, React, and TypeScript.
+
+I'm especially interested in:
+
+🧠 Machine Learning & NLP
+
+🤖 Generative AI & LLM applications
+
+🔎 Retrieval-Augmented Generation (RAG)
+
+🕸️ Multi-Agent AI systems
+
+⚙️ AI APIs, deployment & MLOps
+
+🚀 Turning experimental ideas into usable products
+
+</td>
+</tr>
+</table>
+
+🧑‍💻 What I'm Up To
+
+🔭 Currently working on     → Machine Learning, Generative AI & LLM-powered applications
+👯 Looking to collaborate on → AI/ML, RAG, NLP & Multi-Agent Systems
+🌱 Currently learning       → Advanced RAG, AI Agents, LLM evaluation & MLOps
+💬 Ask me about             → Python, ML, RAG, LangChain, FastAPI & LLMs
+⚡ Fun fact                  → I like building AI projects from idea → model → deployment
+
+🚀 Featured Projects
+
+🔍 Teplur — AI-Generated Text Detection
+
+Built an AI-generated text detection pipeline using GPT-2 perplexity features and a labeled 2,000-sample dataset.
+
+📊 Logistic Regression classification pipeline
+
+🎯 95% accuracy and 0.95 F1-score
+
+🧪 80–20 train-test split
+
+🌐 Deployed with Streamlit
+
+🛠️ Python • PyTorch • Scikit-learn • Transformers • Pandas • NumPy
+
+🌌 Orbit Forge — Orbital Mechanics & Physics Simulator
+
+A high-performance orbital simulation project combining physics, C++, Python, and machine learning.
+
+⚙️ Velocity-Verlet numerical integration
+
+🚀 C++/Python physics engine with Pybind11
+
+🧠 ML classification for stability, collisions, ejections & chaotic outcomes
+
+⚡ Async FastAPI backend
+
+🎮 React + Three.js visualization
+
+🐳 Docker + Nginx deployment
+
+🛠️ C++ • Python • Pybind11 • FastAPI • React • Three.js • Scikit-learn
+
+🧠 NexMind — Multi-Agent AI Research System
+
+An AI research workflow designed to automate web search, content extraction, report generation, and evaluation.
+
+🤖 Multi-agent architecture
+
+🔗 LangChain + LLM-powered agents
+
+📝 NLP & prompt engineering
+
+🌐 Web scraping with BeautifulSoup
+
+📋 Structured research outputs
+
+🖥️ Interactive Streamlit interface
+
+🛠️ Python • LangChain • LLMs • NLP • Streamlit • BeautifulSoup
+
+🎙️ Vissora AI — Video & Meeting Intelligence Assistant
+
+An AI-powered meeting intelligence platform for turning conversations into searchable, useful knowledge.
+
+🎧 Audio transcription with OpenAI Whisper & Sarvam AI
+
+📝 Insight extraction
+
+✅ Action-item identification
+
+🎯 Key-decision tracking
+
+🔎 RAG chatbot over meeting content
+
+🗃️ ChromaDB + vector embeddings
+
+🛠️ Python • Streamlit • LangChain • ChromaDB • Whisper • Mistral AI • FFmpeg
+
+🛠️ Tech Stack
+
+Programming
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vmcH85ZKP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__s.h.r.e.y.a.s__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyas-srivastava-728589264/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@linexshreyas) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Shreyas-Srivastava-32) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/No_Science9628/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Shreyas Srivastava) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ShreyasSri86405) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:linexshreyas@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kreezon&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kreezon&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kreezon&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=kreezon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+AI / Machine Learning
+
+
+
+
+
+
+
+Generative AI
+
+
+
+
+
+
+Development & Deployment
+
+
+
+
+
+
+
+
+Data
+
+
+
+
+
+💼 Experience
+
+Support Engineer (Data & Technical) — CNV Labs India Pvt. Ltd. (iCloudEMS)
+August 2026 – Present
+
+Troubleshoot ERP, web application, database, and API issues using SQL/MySQL and Excel.
+
+Analyze structured datasets and identify missing values, duplicates, inconsistencies, and data-quality issues.
+
+Investigate and reproduce issues, validate data, and coordinate with Development and QA teams.
+
+Support backend/frontend workflows, test bug fixes, and maintain issue documentation.
+
+🎓 Education
+
+Kalinga Institute of Industrial Technology (KIIT)
+B.Tech — Computer Science & Engineering
+CGPA: 8.44 | 2022–2026
+
+📜 Certifications
+
+IBM — Supervised Machine Learning: Regression & Classification
+
+IBM — Generative AI: Introduction and Applications
+
+Tata iQ — GenAI Data Analytics Simulation, Forage
+
+Google for Developers — Neural Networks with TensorFlow
+
+Coursera — Machine Learning for All, University of London
+
+JPMorgan Chase & Co. — Software Engineering Job Simulation, Forage
+
+📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Kreezon&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" height="165">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kreezon&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kreezon&theme=ambient_gradient&hide_border=true" alt="GitHub streak">
+</p>
+
+🕉️ A Little Wisdom
+
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+You have a right to perform your duty, but not to the fruits of your actions.
+— Bhagavad Gita 2.47
+
+योगः कर्मसु कौशलम्।
+Yoga is excellence in action.
+— Bhagavad Gita 2.50
+
+उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।
+One should uplift oneself through one's own efforts.
+— Bhagavad Gita 6.5
+
+💭 Random Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote">
+</p>
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:linexshreyas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/shreyas-srivastava-728589264/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/__s.h.r.e.y.a.s__/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/Kreezon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer animation">
+</p>
