@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = r'''<!-- ===================== ANIMATED HEADER ===================== -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Shreyas+Srivastava+%F0%9F%91%8B;Machine+Learning+%7C+Generative+AI;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Building+AI+from+idea+to+deployment+%F0%9F%9A%80" alt="Animated header">
 </p>
