@@ -23,7 +23,7 @@
 
 <!-- 🖼️ YOUR PHOTO — add it as: assets/shreyas.jpg -->
 
-<img src="./assets/shreyas.jpg" alt="Shreyas Srivastava" width="260">
+<img src="https://github.com/Kreezon/kreezon/blob/main/Shreyas%20.jpeg" alt="Shreyas Srivastava" width="260">
 
 <br><br>
 
