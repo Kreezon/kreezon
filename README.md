@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Kreezon/kreezon/blob/main/200.gif" alt="Shreyas animated banner" width="100%">
+  <img src="https://github.com/Kreezon/kreezon/blob/main/200.gif" alt="Shreyas animated banner" width="60%">
 </p>
 
 <!-- Animated name header -->
